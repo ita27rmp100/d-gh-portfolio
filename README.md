@@ -5,7 +5,7 @@
 It uses the **GitHub API** to fetch your public profile details, repositories, and more, then displays them using a modern, responsive portfolio template.  
 You can even explore the portfolios of other GitHub users—just by entering their username!
 
-> This repository contains the general version for testing on your device.
+> This repository contains the version used in **live demo**
 
 ## 🚀 Features
 
